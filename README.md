@@ -1,4 +1,14 @@
-## Hi there 👋
+### Olá, eu sou o Artur Boudens! 👋
+
+Aqui estão algumas das minhas estatísticas no GitHub:
+
+<br>
+
+![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=SEU-NOME-DE-USUARIO-AQUI&layout=compact&theme=tokyonight)
+
+<br>
+
+![Artur's GitHub Stats](https://github-readme-stats.vercel.app/api?username=SEU-NOME-DE-USUARIO-AQUI&show_icons=true&theme=tokyonight)
 
 <!--
 **arturboudens/arturboudens** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
