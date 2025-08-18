@@ -1,6 +1,4 @@
-### Hi, I'm Artur Boudens! 
-
-Myy stats on GitHub:
+###  My stats on GitHub:
 
 <br>
 
