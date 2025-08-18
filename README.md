@@ -1,6 +1,6 @@
 ### Hi, I'm Artur Boudens! 
 
-Here are some of my stats on GitHub
+Myy stats on GitHub:
 
 <br>
 
@@ -8,7 +8,7 @@ Here are some of my stats on GitHub
 
 <br>
 
-[![My Stats](https://github-readme-stats.vercel.app/api?username=arturboudens&show_icons=true&theme=tokyonight&include_all_commits=true)](https://github.com/anuraghazra/github-readme-stats)
+[![My Stats](https://github-readme-stats.vercel.app/api?username=arturboudens&show_icons=true&theme=tokyonight&include_all_commits=false)](https://github.com/anuraghazra/github-readme-stats)
 
 <!--
 **arturboudens/arturboudens** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
